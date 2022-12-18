@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6541c584-5aaf-4a29-b9fb-8ef41ea253f2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/Data/HR.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/out/production/SeleniumBatch14/Alerts.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/out/production/SeleniumBatch14/Class04/ReviewFacebook" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/out/production/SeleniumBatch14/Class06/AlertInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/out/production/SeleniumBatch14/Class06/Class2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/out/production/SeleniumBatch14/Class06/ClassPractice1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/out/production/SeleniumBatch14/Class06/FramePractice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/out/production/SeleniumBatch14/Class06/HW.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/out/production/SeleniumBatch14/Class06/InstructorCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/out/production/SeleniumBatch14/Class06/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/out/production/SeleniumBatch14/Class06/iFramePractice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/out/production/SeleniumBatch14/Class07/ClassCodes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/out/production/SeleniumBatch14/Class07/HW.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/out/production/SeleniumBatch14/Class07/HW2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/out/production/SeleniumBatch14/Class07/Implicitway.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/out/production/SeleniumBatch14/Class07/Practice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/out/production/SeleniumBatch14/Class07/Wait.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/out/production/SeleniumBatch14/Class07/WindowHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/out/production/SeleniumBatch14/Class07/WindowHandlerAdvance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/out/production/SeleniumBatch14/Class9/DynamicTable" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/out/production/SeleniumBatch14/Class9/DynamicTable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/out/production/SeleniumBatch14/Class9/DynamicTable2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/out/production/SeleniumBatch14/Class9/PP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/out/production/SeleniumBatch14/Class9/PropertyTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/out/production/SeleniumBatch14/Class9/TablePractice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/out/production/SeleniumBatch14/Class9/Tablecode" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/out/production/SeleniumBatch14/Class9/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/out/production/SeleniumBatch14/Review03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/out/production/SeleniumBatch14/Review2/CheckBoxes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/out/production/SeleniumBatch14/Review2/Radiobutton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/out/production/SeleniumBatch14/Review2/dropDowns.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/out/production/SeleniumBatch14/Review3/Iframe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/out/production/SeleniumBatch14/Review3/SwitchWindows.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/out/production/SeleniumBatch14/ReviewPractice/United.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/out/production/SeleniumBatch14/Selenium8/DemAlert.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/out/production/SeleniumBatch14/Selenium8/File2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/out/production/SeleniumBatch14/Selenium8/HRC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/out/production/SeleniumBatch14/Selenium8/HW.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/out/production/SeleniumBatch14/Selenium8/TT.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/out/production/SeleniumBatch14/Selenium8/Tables.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/out/production/SeleniumBatch14/Selenium8/Test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/out/production/SeleniumBatch14/Selenium8/WaitDemo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/out/production/SeleniumBatch14/Selenium8/WaitesDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/out/production/SeleniumBatch14/SeliniumClass05/CheckBoxPractice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/out/production/SeleniumBatch14/SeliniumClass05/DropDownPractice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/out/production/SeleniumBatch14/SeliniumClass05/PracticeLinks.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/src/Alerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/src/Class04/ReviewFacebook" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/src/Class06/AlertInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/src/Class06/Class2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/src/Class06/ClassPractice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/src/Class06/FramePractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/src/Class06/HW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/src/Class06/InstructorCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/src/Class06/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/src/Class06/iFramePractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/src/Class07/ClassCodes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/src/Class07/HW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/src/Class07/HW2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/src/Class07/Implicitway.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/src/Class07/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/src/Class07/Wait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/src/Class07/WindowHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/src/Class07/WindowHandlerAdvance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/src/Class9/DynamicTable" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/src/Class9/DynamicTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/src/Class9/DynamicTable2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/src/Class9/PropertyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/src/Class9/TablePractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/src/Class9/Tablecode" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/src/Class9/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/src/Review03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/src/Review2/CheckBoxes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/src/Review2/dropDowns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/src/Review3/Iframe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/src/Review3/SwitchWindows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/src/Review4/wiatReview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/src/ReviewPractice/United.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/src/Selenium8/Class1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/src/Selenium8/DemAlert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/src/Selenium8/File2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/src/Selenium8/HRC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/src/Selenium8/HW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/src/Selenium8/Tables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/src/Selenium8/Test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeliniumBatch14/src/Selenium8/WaitDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicJava/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicJava/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicJava/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicJava/BasicJava.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicJava/src/WeekendClass13/ClassTask1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Batch14/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Batch14/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Batch14/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Batch14/Batch14.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Batch14/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Batch14/src/Phone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Batch14/src/Task2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Batch14/src/Task3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Batch14/src/Task7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Batch14/src/Task8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GitPushPractice" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroupProject2" beforeDir="false" afterPath="$PROJECT_DIR$/../GroupProject2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBasics" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeliniumBatch14/SeleniumBatch14.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../SeliniumBatch14/SeleniumBatch14.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeliniumBatch14/out/production/SeleniumBatch14/Class04/HW2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SeliniumBatch14/out/production/SeleniumBatch14/Class04/HW2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeliniumBatch14/src/Class04/HW2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SeliniumBatch14/src/Class04/HW2.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2I6h8mhVq0lDs4Ug9ot9kuLa5t1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6541c584-5aaf-4a29-b9fb-8ef41ea253f2" name="Changes" comment="" />
+      <created>1669507783546</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669507783546</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
